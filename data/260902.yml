@@ -1,0 +1,61 @@
+about:
+  description: Micronaut Application Framework
+  license: Apache-2.0
+  homepage: http://micronaut.io
+  head: 1df9447
+  archived: false
+  latestVersion: v5.1.13
+  collectedAt: 2026-09-02T04:25:32Z
+timeline:
+  created: 2018-03-07
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-28
+popularity:
+  star: 6424
+  watcher: 165
+  fork: 1209
+  release: 398
+  contributor: 465
+  pullRequest: 1419
+  issue: 4269
+language:
+  Java: 17318745
+  Groovy: 8562405
+  Kotlin: 1056824
+  Python: 567684
+  HTML: 143
+  Shell: 14
+totalLine: 27505815
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 3
+    mergedPR: 59
+    openPR: 12
+    closedIssue: 3
+    openIssue: 6
+    commit: 100
+  last90d:
+    since: 2026-06-04
+    release: 25
+    mergedPR: 162
+    openPR: 23
+    closedIssue: 23
+    openIssue: 16
+    commit: 360
+  last180d:
+    since: 2026-03-06
+    release: 52
+    mergedPR: 310
+    openPR: 62
+    closedIssue: 38
+    openIssue: 36
+    commit: 1154
+  last360d:
+    since: 2025-09-07
+    release: 87
+    mergedPR: 525
+    openPR: 102
+    closedIssue: 89
+    openIssue: 68
+    commit: 1842
