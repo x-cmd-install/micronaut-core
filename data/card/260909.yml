@@ -2,118 +2,118 @@ about:
   description: "Micronaut Application Framework"
   license: Apache-2.0
   homepage: http://micronaut.io
-  head: 4687b2f
+  head: 69e7421
   archived: false
-  latestVersion: "v5.1.13"
-  latestRelease: "v5.1.13"
+  latestVersion: "v4.10.27"
+  latestRelease: "v4.10.27"
   latestPrerelease: "v5.0.0-RC2"
-  collectedAt: 2026-09-09T04:27:18Z
+  collectedAt: 2026-09-09T18:43:23Z
 timeline:
   created: 2018-03-07
   lastCommit: 2026-09-09
-  lastVersion: 2026-08-28
-  lastRelease: 2026-08-28
+  lastVersion: 2026-09-09
+  lastRelease: 2026-09-09
   lastPrerelease: 2026-05-06
 popularity:
   star: 6424
   watcher: 167
   fork: 1212
-  release: 398
+  release: 401
   contributor: 469
-  pullRequest: 7866
-  issue: 4272
+  pullRequest: 7881
+  issue: 4276
 language:
-  Java: 18600304
-  Groovy: 9582054
-  Kotlin: 1128498
+  Java: 18670459
+  Groovy: 9669762
+  Kotlin: 1130500
   Python: 582717
   HTML: 143
   Shell: 14
-totalBytes: 29893730
+totalBytes: 30053595
 recent:
   last30d:
     since: 2026-08-10
-    release: 3
-    mergedPR: 149
-    openPR: 15
-    closedIssue: 10
-    openIssue: 9
-    commit: 269
+    release: 6
+    mergedPR: 163
+    openPR: 14
+    closedIssue: 18
+    openIssue: 5
+    commit: 300
   last60d:
     since: 2026-07-11
-    release: 11
-    mergedPR: 189
-    openPR: 20
-    closedIssue: 22
-    openIssue: 14
-    commit: 372
+    release: 14
+    mergedPR: 205
+    openPR: 17
+    closedIssue: 30
+    openIssue: 10
+    commit: 403
   last90d:
     since: 2026-06-11
-    release: 22
-    mergedPR: 244
-    openPR: 22
-    closedIssue: 32
-    openIssue: 17
-    commit: 483
+    release: 25
+    mergedPR: 260
+    openPR: 19
+    closedIssue: 40
+    openIssue: 13
+    commit: 514
   last180d:
     since: 2026-03-13
-    release: 51
-    mergedPR: 373
-    openPR: 44
-    closedIssue: 49
-    openIssue: 35
-    commit: 1278
+    release: 54
+    mergedPR: 389
+    openPR: 40
+    closedIssue: 58
+    openIssue: 30
+    commit: 1309
   last360d:
     since: 2025-09-14
-    release: 87
-    mergedPR: 610
-    openPR: 99
-    closedIssue: 97
-    openIssue: 66
-    commit: 2005
+    release: 90
+    mergedPR: 627
+    openPR: 94
+    closedIssue: 107
+    openIssue: 60
+    commit: 2036
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 1090
-    openPR: 114
-    closedIssue: 258
-    openIssue: 132
-    commit: 2482
+    mergedPR: 1107
+    openPR: 109
+    closedIssue: 268
+    openIssue: 126
+    commit: 2499
 total:
-  release: 398
-  mergedPR: 6437
-  openPR: 163
-  closedIssue: 3645
-  openIssue: 627
-  commit: 16621
+  release: 401
+  mergedPR: 6454
+  openPR: 158
+  closedIssue: 3656
+  openIssue: 620
+  commit: 16638
 ---
 path: /home/runner/.x-repo/github.com/micronaut-projects/micronaut-core
-collectedAt: 2026-09-09T04:27:32Z
+collectedAt: 2026-09-09T18:43:42Z
 loc:
   Java:
-    code: 303944
-    comments: 153105
-    blanks: 53787
-    files: 5342
+    code: 304978
+    comments: 153620
+    blanks: 53922
+    files: 5349
   Groovy:
-    code: 225018
-    comments: 21972
-    blanks: 51559
-    files: 2267
+    code: 226877
+    comments: 22156
+    blanks: 51973
+    files: 2283
   Kotlin:
-    code: 23793
-    comments: 7895
-    blanks: 5051
-    files: 868
+    code: 23822
+    comments: 7917
+    blanks: 5055
+    files: 869
   Python:
     code: 12481
     comments: 1454
     blanks: 3028
     files: 423
   AsciiDoc:
-    code: 10205
+    code: 10209
     comments: 39
-    blanks: 4458
+    blanks: 4459
     files: 372
   Json:
     code: 1519
@@ -171,10 +171,10 @@ loc:
     blanks: 1
     files: 12
 total:
-  code: 579247
-  comments: 186202
-  blanks: 118712
-  files: 9408
+  code: 582173
+  comments: 186923
+  blanks: 119266
+  files: 9432
 ---
 date: "2026-09-07"
 repo:
