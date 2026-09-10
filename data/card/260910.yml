@@ -307,4 +307,3 @@ checks:
     details:
       - 'Warn: 28 commits out of 30 are checked with a SAST tool'
 ---
-{"id":385546978,"author":{"login":"sdelamo","id":864788,"node_id":"MDQ6VXNlcjg2NDc4OA==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOB2eaPM4W-vri","tag_name":"v5.1.14","target_commitish":"5.1.x","name":"Micronaut Core 5.1.14","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-09T13:40:47Z","updated_at":"2026-09-09T13:40:49Z","published_at":"2026-09-09T13:36:44Z","assets":[],"body":"<!-- Release notes generated using configuration in .github/release.yml at 5.1.x -->\r\n\r\n\r\n\r\n**Full Changelog**: https://github.com/micronaut-projects/micronaut-core/compare/v5.1.13...v5.1.14"}
