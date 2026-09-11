@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.2.0` (2026-09-10)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 402 · **Merged PRs**: 6466 · **Open PRs**: 168 · **Closed issues**: 3660 · **Open issues**: 618 · **Commits**: 16667
+- **Releases**: 402 · **Merged PRs**: 6470 · **Open PRs**: 165 · **Closed issues**: 3660 · **Open issues**: 618 · **Commits**: 16669
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 7 | 172 | 24 | 19 | 5 | 354 |
-| last60d | 2026-07-13 | 15 | 212 | 27 | 30 | 8 | 461 |
-| 90d | 2026-06-13 | 25 | 271 | 29 | 42 | 13 | 572 |
-| last180d | 2026-03-15 | 53 | 401 | 50 | 62 | 28 | 1367 |
-| 360d | 2025-09-16 | 91 | 639 | 104 | 111 | 58 | 2094 |
-| last720d | 2024-09-21 | 100 | 1118 | 119 | 271 | 124 | 2523 |
+| 30d | 2026-08-12 | 7 | 176 | 21 | 19 | 5 | 356 |
+| last60d | 2026-07-13 | 15 | 216 | 24 | 30 | 8 | 463 |
+| 90d | 2026-06-13 | 25 | 275 | 26 | 42 | 13 | 574 |
+| last180d | 2026-03-15 | 53 | 405 | 47 | 62 | 28 | 1369 |
+| 360d | 2025-09-16 | 91 | 643 | 101 | 111 | 58 | 2096 |
+| last720d | 2024-09-21 | 100 | 1122 | 116 | 271 | 124 | 2525 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for micronaut-core lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:18:58Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:25:01Z._
