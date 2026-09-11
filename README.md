@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v5.2.0` (2026-09-10)
+- **Latest**: `v3.10.12` (2026-09-11)
 - **Last commit**: 2026-09-11
 
 ## Popularity
 
-- **Stars**: 6,424 · **Forks**: 1,213 · **Open issues**: 4,278 · **Contributors**: 469
+- **Stars**: 6,424 · **Forks**: 1,214 · **Open issues**: 4,210 · **Contributors**: 469
 
 ## Totals (cumulative)
 
-- **Releases**: 402 · **Merged PRs**: 6470 · **Open PRs**: 165 · **Closed issues**: 3660 · **Open issues**: 618 · **Commits**: 16669
+- **Releases**: 406 · **Merged PRs**: 6474 · **Open PRs**: 191 · **Closed issues**: 3773 · **Open issues**: 437 · **Commits**: 16671
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 7 | 176 | 21 | 19 | 5 | 356 |
-| last60d | 2026-07-13 | 15 | 216 | 24 | 30 | 8 | 463 |
-| 90d | 2026-06-13 | 25 | 275 | 26 | 42 | 13 | 574 |
-| last180d | 2026-03-15 | 53 | 405 | 47 | 62 | 28 | 1369 |
-| 360d | 2025-09-16 | 91 | 643 | 101 | 111 | 58 | 2096 |
-| last720d | 2024-09-21 | 100 | 1122 | 116 | 271 | 124 | 2525 |
+| 30d | 2026-08-12 | 11 | 180 | 47 | 19 | 6 | 360 |
+| last60d | 2026-07-13 | 19 | 220 | 50 | 31 | 7 | 467 |
+| 90d | 2026-06-13 | 29 | 279 | 52 | 45 | 9 | 578 |
+| last180d | 2026-03-15 | 57 | 409 | 73 | 70 | 19 | 1373 |
+| 360d | 2025-09-16 | 95 | 647 | 127 | 124 | 42 | 2100 |
+| last720d | 2024-09-21 | 100 | 1126 | 142 | 292 | 97 | 2527 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for micronaut-core lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:25:01Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:35:09Z._
