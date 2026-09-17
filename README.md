@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.2.2` (2026-09-14)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-17
 
 ## Popularity
 
-- **Stars**: 6,425 · **Forks**: 1,217 · **Open issues**: 4,203 · **Contributors**: 472
+- **Stars**: 6,425 · **Forks**: 1,217 · **Open issues**: 4,204 · **Contributors**: 472
 
 ## Totals (cumulative)
 
-- **Releases**: 407 · **Merged PRs**: 6524 · **Open PRs**: 179 · **Closed issues**: 3789 · **Open issues**: 414 · **Commits**: 16684
+- **Releases**: 407 · **Merged PRs**: 6531 · **Open PRs**: 206 · **Closed issues**: 3789 · **Open issues**: 415 · **Commits**: 16685
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 12 | 215 | 36 | 17 | 7 | 341 |
-| last60d | 2026-07-18 | 16 | 259 | 39 | 31 | 8 | 422 |
-| 90d | 2026-06-18 | 28 | 320 | 41 | 43 | 9 | 569 |
-| last180d | 2026-03-20 | 57 | 423 | 49 | 67 | 19 | 1367 |
-| 360d | 2025-09-21 | 96 | 695 | 115 | 122 | 42 | 2115 |
-| last720d | 2024-09-26 | 100 | 1175 | 130 | 290 | 93 | 2540 |
+| 30d | 2026-08-18 | 11 | 219 | 63 | 17 | 8 | 342 |
+| last60d | 2026-07-19 | 16 | 264 | 66 | 31 | 9 | 423 |
+| 90d | 2026-06-19 | 28 | 324 | 68 | 43 | 10 | 570 |
+| last180d | 2026-03-21 | 57 | 429 | 76 | 67 | 20 | 1368 |
+| 360d | 2025-09-22 | 96 | 701 | 142 | 122 | 42 | 2116 |
+| last720d | 2024-09-27 | 100 | 1180 | 157 | 290 | 94 | 2540 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for micronaut-core lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T04:39:15Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T04:43:37Z._
