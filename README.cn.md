@@ -4,7 +4,7 @@
 
 Micronaut Application Framework
 
-![micronaut-core](https://repo.x-cmd.io/micronaut-core.svg?lang=zh)
+[![x-cmd/install — micronaut-core Code Quality Monitoring Repo Card](https://repo.x-cmd.io/micronaut-core.svg?lang=zh)](https://x-cmd.com/install/micronaut-core)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install micronaut-core
 
 ## 流行度
 
-- **Star**: 6,425 · **Fork**: 1,217 · **开放 issue**: 4,205 · **贡献者**: 472
+- **Star**: 6,426 · **Fork**: 1,218 · **开放 issue**: 4,205 · **贡献者**: 472
 
 ## 累计统计
 
-- **发布数**: 407 · **已合并 PR**: 6535 · **开放 PR**: 210 · **已关闭 issue**: 3789 · **开放 issue**: 416 · **提交数**: 16685
+- **发布数**: 407 · **已合并 PR**: 6569 · **开放 PR**: 178 · **已关闭 issue**: 3789 · **开放 issue**: 416 · **提交数**: 16685
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 11 | 221 | 67 | 16 | 9 | 342 |
-| last60d | 2026-07-20 | 16 | 267 | 70 | 31 | 10 | 423 |
-| 90d | 2026-06-20 | 27 | 327 | 72 | 43 | 11 | 570 |
-| last180d | 2026-03-22 | 57 | 432 | 80 | 67 | 20 | 1368 |
-| 360d | 2025-09-23 | 96 | 704 | 146 | 121 | 43 | 2116 |
-| last720d | 2024-09-28 | 100 | 1183 | 161 | 289 | 94 | 2540 |
+| 30d | 2026-08-21 | 11 | 249 | 35 | 16 | 9 | 317 |
+| last60d | 2026-07-22 | 14 | 295 | 38 | 28 | 10 | 393 |
+| 90d | 2026-06-22 | 27 | 359 | 40 | 42 | 11 | 543 |
+| last180d | 2026-03-24 | 57 | 459 | 48 | 67 | 19 | 1342 |
+| 360d | 2025-09-25 | 96 | 734 | 114 | 121 | 42 | 2090 |
+| last720d | 2024-09-30 | 100 | 1211 | 129 | 287 | 94 | 2539 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ micronaut-core 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:29:03Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:44:30Z._
