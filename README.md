@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 11 | 249 | 35 | 16 | 9 | 317 |
-| last60d | 2026-07-22 | 14 | 295 | 38 | 28 | 10 | 393 |
-| 90d | 2026-06-22 | 27 | 359 | 40 | 42 | 11 | 543 |
-| last180d | 2026-03-24 | 57 | 459 | 48 | 67 | 19 | 1342 |
-| 360d | 2025-09-25 | 96 | 734 | 114 | 121 | 42 | 2090 |
-| last720d | 2024-09-30 | 100 | 1211 | 129 | 287 | 94 | 2539 |
+| 30d | 2026-08-22 | 10 | 249 | 35 | 16 | 9 | 317 |
+| last60d | 2026-07-23 | 13 | 292 | 38 | 27 | 10 | 393 |
+| 90d | 2026-06-23 | 27 | 356 | 40 | 41 | 11 | 543 |
+| last180d | 2026-03-25 | 57 | 457 | 48 | 67 | 19 | 1342 |
+| 360d | 2025-09-26 | 96 | 734 | 114 | 121 | 42 | 2090 |
+| last720d | 2024-10-01 | 100 | 1211 | 129 | 286 | 94 | 2532 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for micronaut-core lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T04:44:29Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T04:42:45Z._
