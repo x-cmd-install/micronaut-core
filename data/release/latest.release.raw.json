@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/394929528",
-  "assets_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/394929528/assets",
-  "upload_url": "https://uploads.github.com/repos/micronaut-projects/micronaut-core/releases/394929528/assets{?name,label}",
-  "html_url": "https://github.com/micronaut-projects/micronaut-core/releases/tag/v5.2.5",
-  "id": 394929528,
+  "url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/396053809",
+  "assets_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/396053809/assets",
+  "upload_url": "https://uploads.github.com/repos/micronaut-projects/micronaut-core/releases/396053809/assets{?name,label}",
+  "html_url": "https://github.com/micronaut-projects/micronaut-core/releases/tag/v5.2.7",
+  "id": 396053809,
   "author": {
     "login": "graemerocher",
     "id": 66626,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOB2eaPM4XiiV4",
-  "tag_name": "v5.2.5",
+  "node_id": "RE_kwDOB2eaPM4Xm00x",
+  "tag_name": "v5.2.7",
   "target_commitish": "5.2.x",
-  "name": "Micronaut Core 5.2.5",
+  "name": "v5.2.7",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-23T18:15:11Z",
-  "updated_at": "2026-09-23T18:15:14Z",
-  "published_at": "2026-09-23T18:08:36Z",
+  "created_at": "2026-09-24T20:30:24Z",
+  "updated_at": "2026-09-24T20:30:27Z",
+  "published_at": "2026-09-24T20:26:41Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/tarball/v5.2.5",
-  "zipball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/zipball/v5.2.5",
-  "body": "<!-- Release notes generated using configuration in .github/release.yml at 5.2.x -->\r\n\r\n## What's Changed\r\n### Bug Fixes 🐞\r\n* Resolve io.* Java packages other than io.micronaut from Python by @graemerocher in https://github.com/micronaut-projects/micronaut-core/pull/13345\r\n* Python: a Python module of a package named like a Java package is the module by @graemerocher in https://github.com/micronaut-projects/micronaut-core/pull/13342\r\n* Status routes of a request no route matches run with the propagated context of the filters by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13357\r\n* Python: keep the Java interface base of classes defined inside functions by @graemerocher in https://github.com/micronaut-projects/micronaut-core/pull/13301\r\n* Python: a Python method overrides one overload of a Java base method by @graemerocher in https://github.com/micronaut-projects/micronaut-core/pull/13332\r\n* Abort a cancelled raw exchange of the Netty client by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13356\r\n* Match a Python override of a generic Java interface method by @graemerocher in https://github.com/micronaut-projects/micronaut-core/pull/13358\r\n* Do not resolve a directory of a jar under a base path as a resource by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13370\r\n### Improvements ⭐\r\n* Python: a Java-created instance of a Python type is the Python object by @graemerocher in https://github.com/micronaut-projects/micronaut-core/pull/13327\r\n### Other Changes 💡\r\n* Keep the context of an asynchronous filter whose stage completes with null by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13359\r\n* Python: a Micronaut annotation read reflectively is copied when reflection is allowed by @graemerocher in https://github.com/micronaut-projects/micronaut-core/pull/13338\r\n* Find a runtime bean definition through an interface looked up before its registration by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13348\r\n* Resolve a relative raw request URI against the Netty client URL by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13362\r\n* Python: a generated asPolyglotValue() never returns null by @graemerocher in https://github.com/micronaut-projects/micronaut-core/pull/13360\r\n* Release the leak tracker of a disk upload whose file was moved by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13367\r\n* Normalize Windows Python bytecode cache paths by @n0tl3ss in https://github.com/micronaut-projects/micronaut-core/pull/13377\r\n* Report the Python types whose reflection data is left off only when asked by @graemerocher in https://github.com/micronaut-projects/micronaut-core/pull/13374\r\n* Write a file body of a HEAD response for its headers and close it by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13372\r\n\r\n\r\n**Full Changelog**: https://github.com/micronaut-projects/micronaut-core/compare/v5.2.4...v5.2.5",
-  "mentions_count": 3
+  "tarball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/tarball/v5.2.7",
+  "zipball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/zipball/v5.2.7",
+  "body": "<!-- Release notes generated using configuration in .github/release.yml at 5.2.x -->\r\n\r\n## What's Changed\r\n### Bug Fixes 🐞\r\n* Adapt injected async members in reusable Python contexts by @n0tl3ss in https://github.com/micronaut-projects/micronaut-core/pull/13428\r\n### Other Changes 💡\r\n* Fix async Python interface bridges with untyped parameters by @n0tl3ss in https://github.com/micronaut-projects/micronaut-core/pull/13425\r\n\r\n\r\n**Full Changelog**: https://github.com/micronaut-projects/micronaut-core/compare/v5.2.6...v5.2.7",
+  "mentions_count": 1
 }
