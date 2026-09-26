@@ -14,13 +14,13 @@ x install micronaut-core
 
 ## Code insight
 
-Total: **637,397** lines of code across **9834** files in the top 5 languages.
+Total: **643,841** lines of code across **9884** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 329,076 | 165,234 | 57,188 | 5634 |
-| Groovy | 253,406 | 24,837 | 58,152 | 2468 |
-| Kotlin | 24,461 | 8,065 | 5,148 | 878 |
+| Java | 331,953 | 166,264 | 57,558 | 5655 |
+| Groovy | 256,971 | 24,971 | 58,884 | 2497 |
+| Kotlin | 24,463 | 8,066 | 5,149 | 878 |
 | Python | 15,839 | 1,691 | 3,655 | 465 |
 | AsciiDoc | 10,874 | 39 | 4,787 | 389 |
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.2.7` (2026-09-24)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-25
 
 ## Popularity
 
-- **Stars**: 6,431 · **Forks**: 1,219 · **Open issues**: 4,225 · **Contributors**: 474
+- **Stars**: 6,430 · **Forks**: 1,219 · **Open issues**: 4,227 · **Contributors**: 474
 
 ## Totals (cumulative)
 
-- **Releases**: 413 · **Merged PRs**: 6664 · **Open PRs**: 228 · **Closed issues**: 3797 · **Open issues**: 428 · **Commits**: 16877
+- **Releases**: 413 · **Merged PRs**: 6676 · **Open PRs**: 243 · **Closed issues**: 3799 · **Open issues**: 428 · **Commits**: 16888
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 16 | 335 | 85 | 21 | 23 | 567 |
-| last60d | 2026-07-27 | 18 | 386 | 88 | 33 | 24 | 643 |
-| 90d | 2026-06-27 | 33 | 443 | 89 | 45 | 24 | 793 |
-| last180d | 2026-03-29 | 62 | 544 | 96 | 72 | 32 | 1592 |
-| 360d | 2025-09-30 | 100 | 825 | 164 | 129 | 54 | 2340 |
-| last720d | 2024-10-05 | 100 | 1297 | 179 | 292 | 106 | 2714 |
+| 30d | 2026-08-27 | 16 | 345 | 100 | 23 | 23 | 572 |
+| last60d | 2026-07-28 | 18 | 395 | 103 | 35 | 24 | 648 |
+| 90d | 2026-06-28 | 33 | 453 | 104 | 47 | 24 | 798 |
+| last180d | 2026-03-30 | 62 | 555 | 111 | 74 | 32 | 1597 |
+| 360d | 2025-10-01 | 100 | 833 | 179 | 130 | 53 | 2345 |
+| last720d | 2024-10-06 | 100 | 1308 | 194 | 294 | 106 | 2724 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for micronaut-core lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T04:43:53Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T04:46:01Z._
