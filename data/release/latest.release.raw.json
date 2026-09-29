@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/397218347",
-  "assets_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/397218347/assets",
-  "upload_url": "https://uploads.github.com/repos/micronaut-projects/micronaut-core/releases/397218347/assets{?name,label}",
-  "html_url": "https://github.com/micronaut-projects/micronaut-core/releases/tag/v5.2.8",
-  "id": 397218347,
+  "url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/397982214",
+  "assets_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/397982214/assets",
+  "upload_url": "https://uploads.github.com/repos/micronaut-projects/micronaut-core/releases/397982214/assets{?name,label}",
+  "html_url": "https://github.com/micronaut-projects/micronaut-core/releases/tag/v5.2.9",
+  "id": 397982214,
   "author": {
     "login": "graemerocher",
     "id": 66626,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOB2eaPM4XrRIr",
-  "tag_name": "v5.2.8",
+  "node_id": "RE_kwDOB2eaPM4XuLoG",
+  "tag_name": "v5.2.9",
   "target_commitish": "5.2.x",
-  "name": "v5.2.8",
+  "name": "v5.2.9",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-26T12:59:24Z",
-  "updated_at": "2026-09-26T12:59:27Z",
-  "published_at": "2026-09-26T11:55:50Z",
+  "created_at": "2026-09-28T05:58:47Z",
+  "updated_at": "2026-09-28T05:58:49Z",
+  "published_at": "2026-09-28T05:52:59Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/tarball/v5.2.8",
-  "zipball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/zipball/v5.2.8",
-  "body": "<!-- Release notes generated using configuration in .github/release.yml at 5.2.x -->\r\n\r\n## What's Changed\r\n### Improvements ⭐\r\n* Report an annotation the processor cannot read instead of emitting nonsense by @graemerocher in https://github.com/micronaut-projects/micronaut-core/pull/13366\r\n### Other Changes 💡\r\n* Do not enumerate @Bean(typed) beans by an indexed type they hide by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13473\r\n* Speed up the annotation processing test suites: C1-only JVMs, no inject-java re-forking, single Kotlin test compile by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13476\r\n\r\n\r\n**Full Changelog**: https://github.com/micronaut-projects/micronaut-core/compare/v5.2.7...v5.2.8",
-  "mentions_count": 3
+  "tarball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/tarball/v5.2.9",
+  "zipball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/zipball/v5.2.9",
+  "body": "<!-- Release notes generated using configuration in .github/release.yml at 5.2.x -->\r\n\r\n## What's Changed\r\n### Bug Fixes 🐞\r\n* Release the body a filter cannot bind and reject such filter bodies at compile time by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13498\r\n* Flush the window update when the HTTP/2 client resumes a backpressured response by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13487\r\n* Do not chunk a streamed response to an HTTP/1.0 client by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13503\r\n* Python: do not let a non-scope module decorator cost a module its pooling by @graemerocher in https://github.com/micronaut-projects/micronaut-core/pull/13488\r\n### Other Changes 💡\r\n* Limit the JaCoCo agent to the Micronaut classes by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13483\r\n* Compile Kotlin test sources without the Kotlin compiler and KSP on the classpath by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13480\r\n* Keep the inject-kotlin test forks for the whole run by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13485\r\n* Skip publishing to the local Maven repository in the JVM and native CI builds by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13484\r\n* Keep the inject-groovy and http-netty test forks for the whole run by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13486\r\n* Initialize Netty's TypeParameterMatcher at run time in native images by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13492\r\n* Keep the http-server-netty test forks for the whole run by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13495\r\n* Pass a null argument to a Python callable converted to Function by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13490\r\n* Cut the CPU of the Python CI: no Truffle compilation, C2 host JIT, balanced shards by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13496\r\n* Give up on a dead connection within seconds in CI by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13497\r\n* Fix the flaky MaxResponseSizeDiscardSpec and ContextURISpec by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13491\r\n* Compile the test and build JVMs with C2 instead of the Graal JIT by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13489\r\n* Split the Python CI across two jobs instead of four by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13510\r\n* Make the MalformedUri filter feature independent of feature order by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13499\r\n\r\n\r\n**Full Changelog**: https://github.com/micronaut-projects/micronaut-core/compare/v5.2.8...v5.2.9",
+  "mentions_count": 2
 }
