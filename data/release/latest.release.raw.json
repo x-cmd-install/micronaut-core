@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/399980845",
-  "assets_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/399980845/assets",
-  "upload_url": "https://uploads.github.com/repos/micronaut-projects/micronaut-core/releases/399980845/assets{?name,label}",
-  "html_url": "https://github.com/micronaut-projects/micronaut-core/releases/tag/v5.2.10",
-  "id": 399980845,
+  "url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/401071659",
+  "assets_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/401071659/assets",
+  "upload_url": "https://uploads.github.com/repos/micronaut-projects/micronaut-core/releases/401071659/assets{?name,label}",
+  "html_url": "https://github.com/micronaut-projects/micronaut-core/releases/tag/v5.2.12",
+  "id": 401071659,
   "author": {
     "login": "graemerocher",
     "id": 66626,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOB2eaPM4X1zkt",
-  "tag_name": "v5.2.10",
+  "node_id": "RE_kwDOB2eaPM4X594r",
+  "tag_name": "v5.2.12",
   "target_commitish": "5.2.x",
-  "name": "v5.2.10",
+  "name": "v5.2.12",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-30T11:35:33Z",
-  "updated_at": "2026-09-30T11:35:35Z",
-  "published_at": "2026-09-30T11:32:01Z",
+  "created_at": "2026-10-01T15:13:34Z",
+  "updated_at": "2026-10-01T15:13:36Z",
+  "published_at": "2026-10-01T14:52:29Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/tarball/v5.2.10",
-  "zipball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/zipball/v5.2.10",
-  "body": "<!-- Release notes generated using configuration in .github/release.yml at 5.2.x -->\r\n\r\n## What's Changed\r\n### Bug Fixes 🐞\r\n* Do not fail HTTP/2 trailers when the access log is enabled by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13516\r\n* Implement ByteArrayByteBuffer.toOutputStream and fix toByteArray by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13537\r\n* Give each bean its own circuit when the intercepted method is inherited by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13518\r\n* Skip the repeatable fallback for a non-repeatable annotation miss by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13544\r\n* Keep AOP proxy and adapter beans across incremental KSP runs by @Nillerr in https://github.com/micronaut-projects/micronaut-core/pull/13546\r\n* Skip configuration beans replaced by another type on refresh by @radovanradic in https://github.com/micronaut-projects/micronaut-core/pull/13550\r\n* Do not let rendering a resolution path fail the error it is reporting by @graemerocher in https://github.com/micronaut-projects/micronaut-core/pull/13554\r\n* Fix coroutine Publisher adaptation in Python proxies by @n0tl3ss in https://github.com/micronaut-projects/micronaut-core/pull/13573\r\n### Improvements ⭐\r\n* Scale the Python context pool default down from the processor count, and cap it by @graemerocher in https://github.com/micronaut-projects/micronaut-core/pull/13557\r\n* Let a pooled type take constructor arguments, and carry advice by @graemerocher in https://github.com/micronaut-projects/micronaut-core/pull/13565\r\n* Default to processors / 2 GraalPy contexts, now that services can be pooled by @graemerocher in https://github.com/micronaut-projects/micronaut-core/pull/13578\r\n### Docs 📖\r\n* docs: use the configuration block for configuration examples by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/13539\r\n\r\n\r\n**Full Changelog**: https://github.com/micronaut-projects/micronaut-core/compare/v5.2.9...v5.2.10",
-  "mentions_count": 5
+  "tarball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/tarball/v5.2.12",
+  "zipball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/zipball/v5.2.12",
+  "body": "<!-- Release notes generated using configuration in .github/release.yml at 5.2.x -->\r\n\r\n## What's Changed\r\n### Bug Fixes 🐞\r\n* Python: keep incremental compilation incremental with the functional interface provider by @graemerocher in https://github.com/micronaut-projects/micronaut-core/pull/13596\r\n* Advertise the Python processing options a build tool has to discover by @graemerocher in https://github.com/micronaut-projects/micronaut-core/pull/13608\r\n\r\n\r\n**Full Changelog**: https://github.com/micronaut-projects/micronaut-core/compare/v5.2.11...v5.2.12",
+  "mentions_count": 1
 }
