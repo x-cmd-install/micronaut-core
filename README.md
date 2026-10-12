@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 426 · **Merged PRs**: 6928 · **Open PRs**: 314 · **Closed issues**: 3823 · **Open issues**: 444 · **Commits**: 17170
+- **Releases**: 426 · **Merged PRs**: 6928 · **Open PRs**: 318 · **Closed issues**: 3823 · **Open issues**: 444 · **Commits**: 17170
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 24 | 417 | 167 | 31 | 34 | 453 |
-| last60d | 2026-08-12 | 31 | 631 | 174 | 50 | 40 | 892 |
-| 90d | 2026-07-13 | 39 | 671 | 176 | 62 | 41 | 992 |
-| last180d | 2026-04-14 | 68 | 797 | 183 | 92 | 46 | 1836 |
-| 360d | 2025-10-16 | 100 | 1059 | 249 | 149 | 68 | 2581 |
-| last720d | 2024-10-21 | 100 | 1542 | 266 | 312 | 120 | 2980 |
+| 30d | 2026-09-12 | 20 | 405 | 167 | 31 | 34 | 453 |
+| last60d | 2026-08-13 | 31 | 630 | 177 | 49 | 40 | 892 |
+| 90d | 2026-07-14 | 37 | 666 | 180 | 62 | 41 | 992 |
+| last180d | 2026-04-15 | 68 | 797 | 186 | 92 | 46 | 1836 |
+| 360d | 2025-10-17 | 100 | 1054 | 252 | 148 | 68 | 2581 |
+| last720d | 2024-10-22 | 100 | 1540 | 270 | 311 | 120 | 2979 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for micronaut-core lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:34:04Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T05:44:45Z._
