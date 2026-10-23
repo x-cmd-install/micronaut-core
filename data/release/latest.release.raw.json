@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/419966500",
-  "assets_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/419966500/assets",
-  "upload_url": "https://uploads.github.com/repos/micronaut-projects/micronaut-core/releases/419966500/assets{?name,label}",
-  "html_url": "https://github.com/micronaut-projects/micronaut-core/releases/tag/v5.2.18",
-  "id": 419966500,
+  "url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/420839382",
+  "assets_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/420839382/assets",
+  "upload_url": "https://uploads.github.com/repos/micronaut-projects/micronaut-core/releases/420839382/assets{?name,label}",
+  "html_url": "https://github.com/micronaut-projects/micronaut-core/releases/tag/v5.2.19",
+  "id": 420839382,
   "author": {
     "login": "radovanradic",
     "id": 10271067,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOB2eaPM4ZCC4k",
-  "tag_name": "v5.2.18",
+  "node_id": "RE_kwDOB2eaPM4ZFX_W",
+  "tag_name": "v5.2.19",
   "target_commitish": "5.2.x",
-  "name": "Micronaut Core 5.2.18",
+  "name": "Micronaut Core 5.2.19",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-21T19:29:51Z",
-  "updated_at": "2026-10-21T19:29:54Z",
-  "published_at": "2026-10-21T19:25:15Z",
+  "created_at": "2026-10-22T15:12:45Z",
+  "updated_at": "2026-10-22T15:12:48Z",
+  "published_at": "2026-10-22T14:43:07Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/tarball/v5.2.18",
-  "zipball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/zipball/v5.2.18",
-  "body": "<!-- Release notes generated using configuration in .github/release.yml at 5.2.x -->\r\n\r\n## What's Changed\r\n### Bug Fixes 🐞\r\n* Keep the property caches from holding a value read before a property source was added by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/14080\r\n### Improvements ⭐\r\n* [5.2.x] Resolve placeholders in config import declarations by @n0tl3ss in https://github.com/micronaut-projects/micronaut-core/pull/14096\r\n\r\n\r\n**Full Changelog**: https://github.com/micronaut-projects/micronaut-core/compare/v5.2.17...v5.2.18",
-  "mentions_count": 2
+  "tarball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/tarball/v5.2.19",
+  "zipball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/zipball/v5.2.19",
+  "body": "<!-- Release notes generated using configuration in .github/release.yml at 5.2.x -->\r\n\r\n## What's Changed\r\n### Bug Fixes 🐞\r\n* Fix environment refresh issues that remain after the 5.2.16–5.2.18 refresh fixes by @radovanradic in https://github.com/micronaut-projects/micronaut-core/pull/14106\r\n\r\n\r\n**Full Changelog**: https://github.com/micronaut-projects/micronaut-core/compare/v5.2.18...v5.2.19",
+  "mentions_count": 1
 }
