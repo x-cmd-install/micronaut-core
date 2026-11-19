@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/446768034",
-  "assets_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/446768034/assets",
-  "upload_url": "https://uploads.github.com/repos/micronaut-projects/micronaut-core/releases/446768034/assets{?name,label}",
-  "html_url": "https://github.com/micronaut-projects/micronaut-core/releases/tag/v5.2.24",
-  "id": 446768034,
+  "url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/448806608",
+  "assets_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/releases/448806608/assets",
+  "upload_url": "https://uploads.github.com/repos/micronaut-projects/micronaut-core/releases/448806608/assets{?name,label}",
+  "html_url": "https://github.com/micronaut-projects/micronaut-core/releases/tag/v5.2.25",
+  "id": 448806608,
   "author": {
     "login": "sdelamo",
     "id": 864788,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOB2eaPM4aoSOi",
-  "tag_name": "v5.2.24",
+  "node_id": "RE_kwDOB2eaPM4awD7Q",
+  "tag_name": "v5.2.25",
   "target_commitish": "5.2.x",
-  "name": "Micronaut Core 5.2.24",
+  "name": "Micronaut Core 5.2.25",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-16T08:29:17Z",
-  "updated_at": "2026-11-16T08:29:19Z",
-  "published_at": "2026-11-16T08:26:01Z",
+  "created_at": "2026-11-17T15:19:47Z",
+  "updated_at": "2026-11-17T15:19:50Z",
+  "published_at": "2026-11-17T15:15:49Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/tarball/v5.2.24",
-  "zipball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/zipball/v5.2.24",
-  "body": "<!-- Release notes generated using configuration in .github/release.yml at 5.2.x -->\r\n\r\n## What's Changed\r\n### Bug Fixes 🐞\r\n* Finish HTTP/1 responses consistently on the fast path and on connection close by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/14453\r\n* Fix the inverted pending connection hint of the client pool by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/14459\r\n* Wind down HTTP/1 client connections on their event loop by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/14458\r\n* Release the client connection when a request fails before it is sent by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/14457\r\n* Read HTTP/2 stream state on the event loop when writing a full response by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/14454\r\n* Close listeners that were bound when a later listener fails to bind by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/14455\r\n* Acknowledge form data that was buffered before the demuxer was created by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/14456\r\n### Improvements ⭐\r\n* Return null from splitAcceptHeader when the first entry is empty by @hauke-d in https://github.com/micronaut-projects/micronaut-core/pull/14349\r\n* Allow annotation-processing environments to disable logging by @lissam1 in https://github.com/micronaut-projects/micronaut-core/pull/14441\r\n### Other Changes 💡\r\n* Evaluate expressions in the declared metadata of expression aware annotation metadata by @sdelamo in https://github.com/micronaut-projects/micronaut-core/pull/14466\r\n\r\n\r\n**Full Changelog**: https://github.com/micronaut-projects/micronaut-core/compare/v5.2.23...v5.2.24",
-  "mentions_count": 4
+  "tarball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/tarball/v5.2.25",
+  "zipball_url": "https://api.github.com/repos/micronaut-projects/micronaut-core/zipball/v5.2.25",
+  "body": "<!-- Release notes generated using configuration in .github/release.yml at 5.2.x -->\r\n\r\n## What's Changed\r\n### Bug Fixes 🐞\r\n* Keep a shared body buffer consistent when a subscriber subscribes or cancels by @dstepanov in https://github.com/micronaut-projects/micronaut-core/pull/14452\r\n### Dependency updates 🚀\r\n* Update to Netty 4.2.21.Final released by @sdelamo in https://github.com/micronaut-projects/micronaut-core/pull/14491\r\n\r\n\r\n**Full Changelog**: https://github.com/micronaut-projects/micronaut-core/compare/v5.2.24...v5.2.25",
+  "mentions_count": 2
 }
